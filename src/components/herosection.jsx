@@ -97,7 +97,7 @@ function HeroSection() {
                 rel="noopener noreferrer"
                 className='hover:text-indigo-400 transition'
             >
-            <img src="public\linkedin.png" alt="LinkedIn" className="w-12 h-12 relative z-10" />
+            <img src="/linkedin.png" alt="LinkedIn" className="w-12 h-12 relative z-10" />
             </a>
             <a 
                 href="https://www.instagram.com/fadli_adliana17/"
@@ -105,7 +105,7 @@ function HeroSection() {
                 rel="noopener noreferrer"
                 className='hover:text-indigo-400 transition'
             >
-            <img src="public\instagram.png" alt="Instagram" className="w-12 h-12 relative z-10" />
+            <img src="/instagram.png" alt="Instagram" className="w-12 h-12 relative z-10" />
             </a>
             <a 
                 href="https://github.com/Fadhli170402"
@@ -113,7 +113,7 @@ function HeroSection() {
                 rel="noopener noreferrer"
                 className='hover:text-indigo-400 transition'
             >
-            <img src="public\github.png" alt="GitHub" className="w-12 h-12 relative z-10" />
+            <img src="/github.png" alt="GitHub" className="w-12 h-12 relative z-10" />
             </a>
 
           </div>
@@ -134,7 +134,7 @@ function HeroSection() {
             handle="Fadhli"
             status="Online"
             contactText="Contact Me"
-            avatarUrl="public/Foto.jpg"
+            avatarUrl="/Foto.jpg"
             showUserInfo={true}
             enableTilt={true}
             enableMobileTilt={false}
