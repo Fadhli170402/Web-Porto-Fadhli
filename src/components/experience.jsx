@@ -13,7 +13,7 @@ return (
         {[
           {
             id: 'experience-1',
-            image: 'src/assets/NCI.png',
+            image: 'public/NCI.png',
           title: "Web Developer",
           company: "PT. Nuansa Cerah Informasi",
           date: "Jul 2023 - Sept 2023",
@@ -24,7 +24,7 @@ return (
         },
         {
           id: 'experience-2',
-          image: 'src/assets/Itenas.png',
+          image: 'public/Itenas.png',
           title: "Asisten Laboratorium IoT",
           company: "Institut Teknologi Nasional (ITENAS)",
           date: "Sept 2024 - Jan 2025",
@@ -35,7 +35,7 @@ return (
         },
         {
           id: 'experience-3',
-          image: 'src/assets/Itenas.png',
+          image: 'public/Itenas.png',
           title: "Asisten Laboratorium Multimedia",
           company: "ITENAS",
           date: "Sept 2023 - Jan 2024",

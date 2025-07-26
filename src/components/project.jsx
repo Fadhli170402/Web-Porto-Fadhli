@@ -13,7 +13,7 @@ return (
         {[
           {
             id: 'experience-1',
-            image: 'src/assets/4.png',
+            image: 'public/4.png',
           title: "Penerapan Bisnis Intelejen Dalam Melakukan Visualisasi Data Penyakit Anak Di Daerah Jawa Barat",
         //   company: "PT. Nuansa Cerah Informasi",
         //   date: "Jul 2023 - Sept 2023",
